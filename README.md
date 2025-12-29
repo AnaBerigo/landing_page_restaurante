@@ -2,10 +2,6 @@
 
 Este projeto é uma **landing page responsiva e animada** para um restaurante, desenvolvida usando HTML, CSS, JavaScript e jQuery. O objetivo é oferecer uma interface moderna, fluida e atraente para os usuários.
 
-## 📸 Demonstração
-
-_Projeto ainda em desenvolvimento._
-
 ## 🚀 Funcionalidades
 
 - **Design Responsivo:** A página se adapta a diferentes tamanhos de tela, oferecendo uma experiência otimizada em dispositivos móveis, tablets e desktops.
